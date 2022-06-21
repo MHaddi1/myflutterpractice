@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "709955392466",
+    "project_id": "skew-hit",
+    "storage_bucket": "skew-hit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709955392466:android:685e4df424b28b4d49ee0b",
+        "android_client_info": {
+          "package_name": "com.example.skewhit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709955392466-atj9k5oqucrmhmp5uht8qq0m9p66hm7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoRalGH6W8zwk1aVDN8fM7ihm41XySJnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709955392466-atj9k5oqucrmhmp5uht8qq0m9p66hm7f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
